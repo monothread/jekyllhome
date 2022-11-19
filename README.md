@@ -1,1 +1,1 @@
-# A home powered by Minimal Mistakes
+# A home powered by Minimal Mistakes and Jekyll
