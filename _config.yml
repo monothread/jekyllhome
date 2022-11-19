@@ -66,6 +66,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/viktor-lind-a4b339106"
+    - label: "Mail"
+      icon: "fab fa-fw fa-telegram"
+      url: "mailto: viktorlind@protonmail.com"
 
 footer:
   links:
@@ -75,6 +78,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/viktor-lind-a4b339106"
+    - label: "Mail"
+      icon: "fab fa-fw fa-telegram"
+      url: "mailto: viktorlind@protonmail.com"
 
 defaults:
   # _posts

@@ -1,7 +1,8 @@
 ---
-title: "Hello world!"
+title: "echo 'hello world'"
 categories:
   - Blog
 ---
+[xgd-open ~/code/viktor-lind/about.md]: /about "title"
 
-**viktorlind** commited today<br>
+[xgd-open ~/code/viktor-lind/about.md]
