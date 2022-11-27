@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Viktor Lind
-email: viktorlind@protonmail.com
+email: hello@viktorlind.se
 description: >- # this means to ignore newlines until "baseurl:"
   The home of Viktor Lind!
 #github_username: username
@@ -68,7 +68,7 @@ author:
       url: "https://www.linkedin.com/in/viktor-lind-a4b339106"
     - label: "Mail"
       icon: "fab fa-fw fa-telegram"
-      url: "mailto: viktorlind@protonmail.com"
+      url: "mailto: hello@viktorlind.se"
 
 footer:
   links:
@@ -80,7 +80,7 @@ footer:
       url: "https://www.linkedin.com/in/viktor-lind-a4b339106"
     - label: "Mail"
       icon: "fab fa-fw fa-telegram"
-      url: "mailto: viktorlind@protonmail.com"
+      url: "mailto: hello@viktorlind.se"
 
 defaults:
   # _posts
