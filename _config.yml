@@ -58,7 +58,7 @@ author:
   name   : " "
   location : "Örebro 🇸🇪"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hello! I'm Viktor Lind, a versatile software engineer currently doing lots of C++ and Python. 👋"
+  bio    : "Hello! I'm Viktor, a versatile software engineer currently cooking stuff in the .NET kitchen. 👋"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
